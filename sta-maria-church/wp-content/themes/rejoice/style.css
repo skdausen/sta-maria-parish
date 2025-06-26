@@ -1,0 +1,409 @@
+/*
+Theme Name: Rejoice
+Theme URI: https://flythemes.net/wordpress-themes/rejoice-fse-wordpress-theme/
+Author: Flythemes
+Author URI: https://flythemes.net
+Description: Rejoice is a versatile and modern WordPress theme specifically designed for church websites, offering seamless full-site editing capabilities that empower users to create visually stunning and highly functional online experiences. This theme is crafted with care to meet the unique needs of church communities, including features that support event management, sermons, donation integration, and customizable worship schedules. The intuitive drag-and-drop interface allows users to effortlessly build pages, while pre-designed block patterns ensure a professional appearance without requiring advanced technical skills. Rejoice is also fully responsive, ensuring a flawless display on all devices, from desktop computers to smartphones. With its WooCommerce compatibility, churches can set up online stores to sell religious items, event tickets, or other products. The theme supports multilingual setups, making it accessible to diverse congregations, and is optimized for search engines to enhance visibility and outreach. Customization is at the heart of Rejoice, with a vast array of fonts, color palettes, and layout options that allow churches to align the website with their unique identity and mission. Its clean and minimalist design focuses on showcasing important content like sermons and upcoming events, creating an engaging platform for interaction and spiritual growth. Whether for small local churches or large ministries, Rejoice is a comprehensive solution that blends style, functionality, and ease of use, ensuring that creating a meaningful online presence is both accessible and enjoyable.
+Requires at least: 6.1
+Tested up to: 6.7
+Requires PHP: 7.2
+Version: 1.0.3
+License: GNU General Public License
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+Text Domain: rejoice
+Tags: e-commerce, blog, one-column, two-columns, three-columns, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, right-sidebar, custom-background, wide-blocks
+
+Rejoice is based on Underscores theme(Underscores is distributed under the terms of the GNU GPL v2 or later).
+Rejoice WordPress Theme has been created by Flythemes(flythemes.net), 2025.
+Rejoice WordPress Theme is released under the terms of GNU GPL
+*/
+
+a{
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container{
+    background-color: var(--wp--preset--color--white);
+}
+
+.wp-block-navigation .wp-block-navigation-item__content.wp-block-navigation-item__content{
+    color: var(--wp--preset--color--secondary);
+    padding: 22px 12px;
+}
+
+.wp-block-navigation .wp-block-navigation__submenu-icon svg{
+    stroke: var(--wp--preset--color--secondary);
+}
+
+a:focus,
+button:focus{
+	outline: 2px solid blue !important;
+}
+
+.pos-relative{
+    position: relative;
+}
+
+.vertical-middle img{
+    vertical-align: middle;
+}
+
+.vertical-center > *{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+.shadow{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.hidden-overflow{
+    overflow: hidden;
+}
+
+.banner-sub-title{
+    display: inline-block;
+    border-radius: 12px;
+}
+
+.section_head {
+    margin-bottom: 50px;
+}
+
+h4.section_sub_title {
+    color: var(--wp--preset--color--white);
+    margin-bottom: 0;
+    border-radius: 30px;
+}
+
+h2.section_title {
+    position: relative;
+    margin-bottom: 30px;
+    letter-spacing: 2px;
+}
+
+.no-pesdue:before,
+.no-pesdue:after{
+    content: none !important;
+}
+
+.shape{
+  -webkit-transform: skew(-20deg);
+  transform: skew(-20deg);
+}
+
+.shape > *{
+    -webkit-transform: skew(20deg);
+  transform: skew(20deg);
+}
+
+.block-service{
+    margin-top: -36% !important;
+}
+
+.block-service-wrap{
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 13%, rgba(255, 255, 255, 1) 13.3%);
+}
+
+@media (max-width: 600px) {
+	.wp-block-media-text__content {
+		padding: 0 !important;
+        margin-top: 30px !important;
+	}
+}
+@media (min-width: 600px) {
+	.wp-block-media-text.has-media-on-the-right .wp-block-media-text__content {
+		padding: 0 5% 0 0;
+	}
+	.wp-block-media-text.has-media-on-the-left .wp-block-media-text__content {
+		padding: 0 0 0 5%;
+	}
+}
+
+.front-newsletter{
+    width: 500px;
+    margin: 4rem auto 1rem;
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 100px;
+    height: 65px;
+    position: relative;
+}
+.front-newsletter p{
+    margin: 0;
+    display: flex;
+    align-items: flex-start;
+}
+.front-newsletter p .wpcf7-form-control-wrap{
+    flex-grow: 1;
+}
+.front-newsletter input[type="email"]{
+    border-radius: 100px;
+    height: 55px;
+}
+.front-newsletter .wpcf7-submit{
+    border-radius: 100px;
+    box-shadow: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+    height: 55px;
+    margin-left: 5px;
+}
+.front-newsletter .wpcf7-spinner{
+    position: absolute;
+    bottom: 0;
+}
+
+.ln-post-date{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+/**** Footer ****/
+.footer-info .wp-block-image img{
+    vertical-align: middle;
+}
+
+form {
+    position: relative;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+textarea,
+select {
+    width: 100%;
+    margin: 0;
+    padding: 10px 15px;
+    border: 1px solid #ebebeb;
+    outline: 0;
+    resize: none;
+    line-height: 20px;
+    background: none;
+    color: #000000;
+    font-weight: 400;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+select::-ms-expand {
+    display: none; /* hide the default arrow in ie10 and ie11 */
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="number"]:focus,
+input[type="tel"]:focus,
+input[type="range"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="week"]:focus,
+input[type="time"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="color"]:focus,
+textarea:focus,
+select:focus {
+    border-color: var(--wp--preset--color--primary);
+}
+
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    padding: 12px 20px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: var(--wp--preset--color--primary);
+    color: #ffffff;
+}
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.wpcf7-form label {
+    display: block;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin: 0 0 8px;
+    color: #000000;
+    font-weight: 700;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group p{
+    margin: 0;
+}
+
+.form-group.half {
+    width: 48%;
+    margin-right: 4%;
+    float: left;
+}
+
+.form-group.half.last {
+    margin-right: 0;
+}
+
+.form-group.third {
+    width: 32%;
+    margin-right: 2%;
+    float: left;
+}
+
+.form-group.third.last {
+    margin-right: 0;
+}
+
+.form-group.fourth {
+    width: 23.5%;
+    margin-right: 2%;
+    float: left;
+}
+
+.form-group.fourth.last {
+    margin-right: 0;
+}
+
+/* --- Block Media Quries
+-------------------------------------------------------- */
+/* --- > Media Queries
+-------------------------------------------------------- */
+/* --- > 999px
+-------------------------------------------------------- */
+@media screen and (max-width:999px) {
+    .wp-block-navigation__responsive-container,
+    .wp-block-navigation__responsive-container .wp-block-navigation__responsive-container-content{
+        display: none;
+    }
+
+    .wp-block-navigation__responsive-container-close,
+    .wp-block-navigation__responsive-container-open{
+        background: var(--wp--preset--color--primary);
+    }
+
+    .wp-block-navigation__responsive-container-close svg,
+    .wp-block-navigation__responsive-container-open svg{
+        width: 42px;
+        height: 42px;
+    }
+    
+    .wp-block-navigation__responsive-container-open svg path,
+    .wp-block-navigation__responsive-container-close svg path{
+        fill: var(--wp--preset--color--white);
+    }
+
+    .wp-block-navigation__responsive-container-close{
+        top: 20px;
+        right: 20px;
+    }
+
+    .wp-block-navigation__responsive-container-open:not(.always-shown){
+        display: block;
+    }
+
+    .wp-block-navigation__responsive-container:not(.hidden-by-default):not(.is-menu-open) {
+        display: none; 
+    }
+
+    .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content{
+        padding: 1.5em;
+    }
+
+    .wp-block-navigation .wp-block-navigation__responsive-container-content ul.wp-block-navigation__container {
+        width: 100%;
+        gap: 0 !important;
+        border-bottom: none;
+    }
+    .wp-block-navigation .wp-block-navigation__responsive-container-content ul.wp-block-navigation__container li.wp-block-navigation-item {
+        width: 100%;
+        gap: 0 !important;
+        border: none !important;
+    }
+    .wp-block-navigation .wp-block-navigation__responsive-container-content ul.wp-block-navigation__container li.wp-block-navigation-item a {
+        width: calc( 100% - 48px );
+        padding: 12px 24px 12px;
+        line-height: 30px;
+    }
+
+    /*
+    * Submenu Css
+    */
+
+    .wp-block-navigation .wp-block-navigation__responsive-container-content ul.wp-block-navigation__container li.wp-block-navigation-item .wp-block-navigation__submenu-icon {
+        display: block !important;
+        margin-left: 15px;
+        padding: 3px 10px;
+        float: right;
+        font-size: 19px;
+        line-height: 1;
+        position: absolute;
+        right: 0;
+        top: 0;
+        height: 42px;
+        width: 42px;
+    }
+    .wp-block-navigation .wp-block-navigation__responsive-container-content ul.wp-block-navigation__container li.wp-block-navigation-item .wp-block-navigation__submenu-icon svg {
+        stroke: var(--wp--preset--color--secondary);
+        display: block;
+        width: 30px;
+        height: 13px;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    .wp-block-navigation .wp-block-navigation__responsive-container-content ul.wp-block-navigation__container li.wp-block-navigation-item ul.wp-block-navigation__submenu-container {
+        width: 100%;
+        gap: 0;
+        margin: 0;
+        padding: 0;
+        display: none;
+        box-shadow: none;
+    }
+    .wp-block-navigation .wp-block-navigation__responsive-container-content ul.wp-block-navigation__container li.wp-block-navigation-item ul.wp-block-navigation__submenu-container li.wp-block-navigation-item a {
+        padding-left: 35px;
+    }
+    .wp-block-navigation .wp-block-navigation__responsive-container-content ul.wp-block-navigation__container li.wp-block-navigation-item .wp-block-navigation-submenu__toggle[aria-expanded=true] + ul.wp-block-navigation__submenu-container {
+        display: block;
+        margin: 0;
+        padding: 0;
+    }
+}

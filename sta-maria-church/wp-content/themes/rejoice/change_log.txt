@@ -1,0 +1,11 @@
+Version 1.0
+i) Initial version Release
+
+Version 1.0.1
+i) Resolve slug issue.
+
+Version 1.0.2
+i) Added images urls and removed redirect.
+
+Version 1.0.3
+i) Added missing images url.

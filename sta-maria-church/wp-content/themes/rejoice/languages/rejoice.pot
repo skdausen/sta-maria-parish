@@ -1,0 +1,351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rejoice\n"
+"POT-Creation-Date: 2025-01-17 12:32+0530\n"
+"PO-Revision-Date: 2025-01-17 12:32+0530\n"
+"Last-Translator: \n"
+"Language-Team: Flythemes Team <support@flythemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr_e;esc_html_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: block-patterns.php:17
+msgid "Rejoice"
+msgstr ""
+
+#: inc/about.php:48
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:59
+msgid "Getting Started with Rejoice!"
+msgstr ""
+
+#: inc/about.php:60
+msgid ""
+"Awesome! Rejoice has been installed and activated successfully. Now, you can "
+"start building your dream website with a wide range of highly-customizable "
+"block patterns, templates, and template parts available in this astounding "
+"theme."
+msgstr ""
+
+#: inc/about.php:66
+msgid "More Features with Rejoice Pro Theme"
+msgstr ""
+
+#: inc/about.php:67
+msgid ""
+"To get more features and unique home page sections, we recommend you "
+"activate the Rejoice Pro. With the pro theme installed, get more options "
+"like google fonts, colors, sliders, page template, shortcodes and more."
+msgstr ""
+
+#: inc/about.php:68
+msgid "Buy Rejoice Pro"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:78
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:79
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:80
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:87
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:88
+msgid ""
+"Loved Rejoice? Feel free to leave your feedback. Your opinion helps us reach "
+"more audiences!"
+msgstr ""
+
+#: inc/about.php:89
+msgid "Review"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/archive.php:54
+msgid "Sorry, No posts exists..."
+msgstr ""
+
+#: patterns/archive.php:65
+#: patterns/single.php:63
+msgid "Search"
+msgstr ""
+
+#: patterns/archive.php:75
+#: patterns/single.php:73
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/archive.php:99
+#: patterns/single.php:97
+msgid "Categories"
+msgstr ""
+
+#: patterns/archive.php:109
+#: patterns/single.php:107
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:119
+#: patterns/single.php:117
+msgid "Tags"
+msgstr ""
+
+#: patterns/banner.php:14
+msgid "Find Meaning and Purpose"
+msgstr ""
+
+#: patterns/banner.php:18
+msgid "Grow in Your Walk with God"
+msgstr ""
+
+#: patterns/banner.php:23
+msgid "Join Now"
+msgstr ""
+
+#: patterns/footer.php:15
+msgid "About Rejoice"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid ""
+"Quisque enim erat, maximus ut posuere efficitur, facilisis vulputate lacus. "
+"Donec tempus in ante in lobortis. Suspendisse sed vestibulum metus. Fusce "
+"efficitur aliquet ipsum, at tincidunt arcu varius sit amet."
+msgstr ""
+
+#: patterns/footer.php:37
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:44
+msgid "Home"
+msgstr ""
+
+#: patterns/footer.php:50
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer.php:58
+msgid "Events"
+msgstr ""
+
+#: patterns/footer.php:64
+msgid "Sermons"
+msgstr ""
+
+#: patterns/footer.php:72
+msgid "Causes"
+msgstr ""
+
+#: patterns/footer.php:78
+msgid "Shortcodes"
+msgstr ""
+
+#: patterns/footer.php:86
+msgid "Blog"
+msgstr ""
+
+#: patterns/footer.php:92
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer.php:103
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer.php:113
+msgid "194 W Brandon Blvd, Florida."
+msgstr ""
+
+#: patterns/footer.php:123
+#: patterns/footer.php:133
+msgid "07908 712026"
+msgstr ""
+
+#: patterns/footer.php:143
+#: patterns/header.php:61
+msgid "demo@example.com"
+msgstr ""
+
+#: patterns/footer.php:157
+msgid "© Copyright 2025. All Rights Reserved."
+msgstr ""
+
+#: patterns/footer.php:161
+msgid "Fly Themes"
+msgstr ""
+
+#: patterns/footer.php:161
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:161
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:161
+msgid "WordPress"
+msgstr ""
+
+#: patterns/getinvolved.php:13
+msgid "Get Involved"
+msgstr ""
+
+#: patterns/getinvolved.php:17
+msgid ""
+"Explore narratives illustrating the positive impact contributions social "
+"responsibility and collaboration."
+msgstr ""
+
+#: patterns/getinvolved.php:34
+msgid "God’s light in darkness"
+msgstr ""
+
+#: patterns/getinvolved.php:38
+#: patterns/getinvolved.php:56
+#: patterns/getinvolved.php:74
+#: patterns/getinvolved.php:92
+msgid "View More"
+msgstr ""
+
+#: patterns/getinvolved.php:52
+msgid "Worship in spirit and truth"
+msgstr ""
+
+#: patterns/getinvolved.php:70
+msgid "Living water for the soul"
+msgstr ""
+
+#: patterns/getinvolved.php:88
+msgid "Grace for every moment"
+msgstr ""
+
+#: patterns/header.php:29
+#: patterns/video.php:35
+msgid "Donate Now"
+msgstr ""
+
+#: patterns/header.php:57
+msgid "Email Us"
+msgstr ""
+
+#: patterns/header.php:77
+msgid "Call Us"
+msgstr ""
+
+#: patterns/header.php:81
+msgid "07908712026"
+msgstr ""
+
+#: patterns/introduction.php:21
+msgid "About Rejoice Church"
+msgstr ""
+
+#: patterns/introduction.php:25
+msgid "We Exist to Connect People to Jesus and Each Other"
+msgstr ""
+
+#: patterns/introduction.php:29
+msgid ""
+"Maecenas eu tincidunt magna. Etiam neque metus, tempor nec ante vitae, "
+"mollis feugiat nibh. Donec aliquam metus ut rutrum finibus. In non risus et "
+"purus posuere placerat ut ac purus. Proin sed bibendum velit. Nulla at est "
+"varius ex auctor eleifend at id ex. Aliquam mollis malesuada consequat."
+msgstr ""
+
+#: patterns/introduction.php:40
+#: patterns/introduction.php:52
+#: patterns/introduction.php:66
+#: patterns/introduction.php:78
+msgid "Nulla viverra ut enim nec lacinia."
+msgstr ""
+
+#: patterns/introduction.php:86
+msgid "More About Us"
+msgstr ""
+
+#: patterns/latest-news.php:13
+msgid "From The Blog"
+msgstr ""
+
+#: patterns/latest-news.php:17
+msgid "Latest News Blog Articles & Tips"
+msgstr ""
+
+#: patterns/latest-news.php:47
+msgid "Read More"
+msgstr ""
+
+#: patterns/testimonials.php:13
+msgid "Our Church Journey"
+msgstr ""
+
+#: patterns/testimonials.php:17
+msgid "What they're saying about our church"
+msgstr ""
+
+#: patterns/testimonials.php:31
+msgid ""
+"Integer tempus augue vel erat ultricies, eu feugiat massa sollicitudin. "
+"Aenean facilisis tortor dolor, id dignissim libero finibus et. Praesent "
+"imperdiet porta ex ut bibendum. Aliquam erat volutpat. Mauris ornare lorem "
+"ac finibus interdum. Quisque at finibus…"
+msgstr ""
+
+#: patterns/testimonials.php:43
+msgid "John Doe"
+msgstr ""
+
+#: patterns/testimonials.php:47
+msgid "Visitor"
+msgstr ""
+
+#: patterns/video.php:15
+msgid "Support Our Mission"
+msgstr ""
+
+#: patterns/video.php:19
+msgid "Your donation means a lot to them. Donate what you can."
+msgstr ""
+
+#: patterns/video.php:24
+msgid ""
+"Vivamus quis ipsum vel orci convallis mattis. Sed id lacus vel nisi lobortis "
+"luctus. Phasellus condimentum dui lorem, at porttitor nisl laoreet sed. "
+"Quisque ut rutrum tellus. Aenean accumsan arcu lacinia odio vehicula "
+"sollicitudin."
+msgstr ""

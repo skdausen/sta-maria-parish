@@ -1,0 +1,687 @@
+0000.000 (0) Opened log file at time: Wed, 25 Jun 2025 02:15:54 +0000 on https://192.168.0.100/sta-maria-church
+0000.015 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.6 WP: 6.8.1 PHP: 8.2.12 (apache2handler, Windows NT SEANNY 10.0 build 26100 (Windows 11) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 1024M (used: 96.9M | 100M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.020 (0) Free space on disk containing Updraft's temporary directory: 73808.1 MB
+0000.026 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.032 (0) Semaphore (fd, wp_options) being initialised
+0000.046 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.061 (0) Set semaphore last lock (fd) time to 2025-06-25 02:15:54
+0000.065 (0) Semaphore lock (fd) complete
+0000.080 (0) Backup run: resumption=0, nonce=eb07bb214f12, file_nonce=eb07bb214f12 begun at=1750817754 (0s ago), job type=backup
+0000.089 (0) Scheduling a resumption (1) after 300 seconds (1750818054) in case this run gets aborted
+0000.105 (0) Checking if we have a zip executable available
+0000.116 (0) Creation of backups of directories: beginning
+0000.131 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0008.145 (0) Total entities for the zip file: 3034 directories, 13778 files (0 skipped as non-modified), 265.5 MB
+0008.158 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0008.294 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 100 files added (on-disk size: 581.2 KB)
+0008.328 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 200 files added (on-disk size: 581.2 KB)
+0008.361 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 300 files added (on-disk size: 581.2 KB)
+0008.395 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 400 files added (on-disk size: 581.2 KB)
+0008.429 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 500 files added (on-disk size: 581.2 KB)
+0008.467 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 600 files added (on-disk size: 581.2 KB)
+0008.503 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 700 files added (on-disk size: 581.2 KB)
+0008.538 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 800 files added (on-disk size: 581.2 KB)
+0008.574 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 900 files added (on-disk size: 581.2 KB)
+0008.610 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 1000 files added (on-disk size: 581.2 KB)
+0008.617 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.2 MB, 13778 files batched, 1001 (1002) added so far); re-opening (prior size: 581.2 KB)
+0027.443 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 1100 files added (on-disk size: 7224.6 KB)
+0027.486 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 1200 files added (on-disk size: 7224.6 KB)
+0027.518 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 1300 files added (on-disk size: 7224.6 KB)
+0027.552 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 1400 files added (on-disk size: 7224.6 KB)
+0027.584 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 1500 files added (on-disk size: 7224.6 KB)
+0027.616 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 1600 files added (on-disk size: 7224.6 KB)
+0027.648 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 1700 files added (on-disk size: 7224.6 KB)
+0027.679 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 1800 files added (on-disk size: 7224.6 KB)
+0027.696 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 13778 files batched, 831 (1833) added so far); re-opening (prior size: 7224.6 KB)
+0040.196 (0) A useful amount of data was added after this amount of zip processing: 13.2 s (normalised: 13.1 s, rate: 1954.8 KB/s)
+0040.240 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 1900 files added (on-disk size: 14382.8 KB)
+0040.272 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 2000 files added (on-disk size: 14382.8 KB)
+0040.304 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 2100 files added (on-disk size: 14382.8 KB)
+0040.336 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 2200 files added (on-disk size: 14382.8 KB)
+0040.367 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 2300 files added (on-disk size: 14382.8 KB)
+0040.377 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 13778 files batched, 472 (2305) added so far); re-opening (prior size: 14382.8 KB)
+0047.188 (0) A useful amount of data was added after this amount of zip processing: 7.2 s (normalised: 7.2 s, rate: 3579.3 KB/s)
+0047.242 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 2400 files added (on-disk size: 20055.7 KB)
+0047.276 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 2500 files added (on-disk size: 20055.7 KB)
+0047.309 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 2600 files added (on-disk size: 20055.7 KB)
+0047.340 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 2700 files added (on-disk size: 20055.7 KB)
+0047.371 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 2800 files added (on-disk size: 20055.7 KB)
+0047.405 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 2900 files added (on-disk size: 20055.7 KB)
+0047.460 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 3000 files added (on-disk size: 20055.7 KB)
+0047.494 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 3100 files added (on-disk size: 20055.7 KB)
+0047.527 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 3200 files added (on-disk size: 20055.7 KB)
+0047.562 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 3300 files added (on-disk size: 20055.7 KB)
+0047.570 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.7 MB, 13778 files batched, 1001 (3306) added so far); re-opening (prior size: 20055.7 KB)
+0056.081 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 3400 files added (on-disk size: 24865 KB)
+0056.119 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 3500 files added (on-disk size: 24865 KB)
+0056.157 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 3600 files added (on-disk size: 24865 KB)
+0056.192 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 3700 files added (on-disk size: 24865 KB)
+0056.229 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 3800 files added (on-disk size: 24865 KB)
+0056.264 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 3900 files added (on-disk size: 24865 KB)
+0056.299 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 4000 files added (on-disk size: 24865 KB)
+0056.336 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 4100 files added (on-disk size: 24865 KB)
+0056.368 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 13778 files batched, 886 (4192) added so far); re-opening (prior size: 24865 KB)
+0072.482 (0) A useful amount of data was added after this amount of zip processing: 16.5 s (normalised: 16.4 s, rate: 1556.9 KB/s)
+0072.523 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 4200 files added (on-disk size: 34412.7 KB)
+0072.559 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 4300 files added (on-disk size: 34412.7 KB)
+0072.594 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 4400 files added (on-disk size: 34412.7 KB)
+0072.625 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 4500 files added (on-disk size: 34412.7 KB)
+0072.657 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 4600 files added (on-disk size: 34412.7 KB)
+0072.692 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 4700 files added (on-disk size: 34412.7 KB)
+0072.698 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 13778 files batched, 509 (4701) added so far); re-opening (prior size: 34412.7 KB)
+0079.978 (0) A useful amount of data was added after this amount of zip processing: 8 s (normalised: 7.9 s, rate: 3231.1 KB/s)
+0080.047 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 4800 files added (on-disk size: 42799.9 KB)
+0080.084 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 4900 files added (on-disk size: 42799.9 KB)
+0080.120 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 5000 files added (on-disk size: 42799.9 KB)
+0080.158 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 5100 files added (on-disk size: 42799.9 KB)
+0080.193 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 5200 files added (on-disk size: 42799.9 KB)
+0080.232 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 5300 files added (on-disk size: 42799.9 KB)
+0080.269 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 5400 files added (on-disk size: 42799.9 KB)
+0080.305 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 5500 files added (on-disk size: 42799.9 KB)
+0080.342 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 5600 files added (on-disk size: 42799.9 KB)
+0080.382 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 5700 files added (on-disk size: 42799.9 KB)
+0080.389 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.1 MB, 13778 files batched, 1001 (5702) added so far); re-opening (prior size: 42799.9 KB)
+0097.342 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 5800 files added (on-disk size: 45567 KB)
+0097.377 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 5900 files added (on-disk size: 45567 KB)
+0097.413 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 6000 files added (on-disk size: 45567 KB)
+0097.445 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 6100 files added (on-disk size: 45567 KB)
+0097.477 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 6200 files added (on-disk size: 45567 KB)
+0097.512 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 6300 files added (on-disk size: 45567 KB)
+0097.546 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 6400 files added (on-disk size: 45567 KB)
+0097.592 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 6500 files added (on-disk size: 45567 KB)
+0097.643 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 6600 files added (on-disk size: 45567 KB)
+0097.690 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 6700 files added (on-disk size: 45567 KB)
+0097.697 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (24.4 MB, 13778 files batched, 1001 (6703) added so far); re-opening (prior size: 45567 KB)
+0116.222 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 6800 files added (on-disk size: 54206.3 KB)
+0116.283 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 6900 files added (on-disk size: 54206.3 KB)
+0116.338 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 7000 files added (on-disk size: 54206.3 KB)
+0116.390 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 7100 files added (on-disk size: 54206.3 KB)
+0116.434 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 7200 files added (on-disk size: 54206.3 KB)
+0116.471 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 7300 files added (on-disk size: 54206.3 KB)
+0116.509 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 7400 files added (on-disk size: 54206.3 KB)
+0116.551 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 7500 files added (on-disk size: 54206.3 KB)
+0116.590 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 7600 files added (on-disk size: 54206.3 KB)
+0116.642 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 7700 files added (on-disk size: 54206.3 KB)
+0116.652 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14.1 MB, 13778 files batched, 1001 (7704) added so far); re-opening (prior size: 54206.3 KB)
+0129.522 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 7800 files added (on-disk size: 60258.4 KB)
+0129.560 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 7900 files added (on-disk size: 60258.4 KB)
+0129.599 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 8000 files added (on-disk size: 60258.4 KB)
+0129.632 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 8100 files added (on-disk size: 60258.4 KB)
+0129.666 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 8200 files added (on-disk size: 60258.4 KB)
+0129.702 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 8300 files added (on-disk size: 60258.4 KB)
+0129.737 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 8400 files added (on-disk size: 60258.4 KB)
+0129.771 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 8500 files added (on-disk size: 60258.4 KB)
+0129.803 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 8600 files added (on-disk size: 60258.4 KB)
+0129.835 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 8700 files added (on-disk size: 60258.4 KB)
+0129.842 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14.3 MB, 13778 files batched, 1001 (8705) added so far); re-opening (prior size: 60258.4 KB)
+0139.336 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 8800 files added (on-disk size: 65900.3 KB)
+0139.374 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 8900 files added (on-disk size: 65900.3 KB)
+0139.412 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 9000 files added (on-disk size: 65900.3 KB)
+0139.449 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 9100 files added (on-disk size: 65900.3 KB)
+0139.487 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 9200 files added (on-disk size: 65900.3 KB)
+0139.525 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 9300 files added (on-disk size: 65900.3 KB)
+0139.562 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 9400 files added (on-disk size: 65900.3 KB)
+0139.598 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 9500 files added (on-disk size: 65900.3 KB)
+0139.635 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 9600 files added (on-disk size: 65900.3 KB)
+0139.691 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 9700 files added (on-disk size: 65900.3 KB)
+0139.700 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.6 MB, 13778 files batched, 1001 (9706) added so far); re-opening (prior size: 65900.3 KB)
+0153.060 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 9800 files added (on-disk size: 70279 KB)
+0153.096 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 9900 files added (on-disk size: 70279 KB)
+0153.139 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 10000 files added (on-disk size: 70279 KB)
+0153.179 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 10100 files added (on-disk size: 70279 KB)
+0153.219 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 10200 files added (on-disk size: 70279 KB)
+0153.258 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 10300 files added (on-disk size: 70279 KB)
+0153.301 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 10400 files added (on-disk size: 70279 KB)
+0153.342 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 10500 files added (on-disk size: 70279 KB)
+0153.393 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 10600 files added (on-disk size: 70279 KB)
+0153.437 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 10700 files added (on-disk size: 70279 KB)
+0153.444 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.1 MB, 13778 files batched, 1001 (10707) added so far); re-opening (prior size: 70279 KB)
+0168.816 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 10800 files added (on-disk size: 77367.1 KB)
+0168.850 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 10900 files added (on-disk size: 77367.1 KB)
+0168.884 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 11000 files added (on-disk size: 77367.1 KB)
+0168.917 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 11100 files added (on-disk size: 77367.1 KB)
+0168.949 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 11200 files added (on-disk size: 77367.1 KB)
+0168.982 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 11300 files added (on-disk size: 77367.1 KB)
+0169.018 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 11400 files added (on-disk size: 77367.1 KB)
+0169.053 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 11500 files added (on-disk size: 77367.1 KB)
+0169.085 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 11600 files added (on-disk size: 77367.1 KB)
+0169.117 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 11700 files added (on-disk size: 77367.1 KB)
+0169.124 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.4 MB, 13778 files batched, 1001 (11708) added so far); re-opening (prior size: 77367.1 KB)
+0180.857 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 11800 files added (on-disk size: 80940 KB)
+0180.891 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 11900 files added (on-disk size: 80940 KB)
+0180.927 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 12000 files added (on-disk size: 80940 KB)
+0180.964 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 12100 files added (on-disk size: 80940 KB)
+0181.001 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 12200 files added (on-disk size: 80940 KB)
+0181.040 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 12300 files added (on-disk size: 80940 KB)
+0181.075 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 12400 files added (on-disk size: 80940 KB)
+0181.112 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 12500 files added (on-disk size: 80940 KB)
+0181.149 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 12600 files added (on-disk size: 80940 KB)
+0181.186 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 12700 files added (on-disk size: 80940 KB)
+0181.193 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (22.5 MB, 13778 files batched, 1001 (12709) added so far); re-opening (prior size: 80940 KB)
+0183.020 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 12800 files added (on-disk size: 88358.1 KB)
+0183.055 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 12900 files added (on-disk size: 88358.1 KB)
+0183.088 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 13000 files added (on-disk size: 88358.1 KB)
+0183.120 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 13100 files added (on-disk size: 88358.1 KB)
+0183.164 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 13200 files added (on-disk size: 88358.1 KB)
+0183.214 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 13300 files added (on-disk size: 88358.1 KB)
+0183.267 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 13400 files added (on-disk size: 88358.1 KB)
+0183.335 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 13500 files added (on-disk size: 88358.1 KB)
+0183.401 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 13600 files added (on-disk size: 88358.1 KB)
+0183.458 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.tmp: 13700 files added (on-disk size: 88358.1 KB)
+0183.466 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.5 MB, 13778 files batched, 1001 (13710) added so far); re-opening (prior size: 88358.1 KB)
+0186.357 (0) Creating zip file manifest (backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.list-temp.tmp)
+0186.394 (0) Successfully created zip file manifest (size: 1257920)
+0187.003 (0) Created plugins zip (0) - 92264 KB in 186.9 s (493.8 KB/s) (sha1: 68df5811b068b67d745e0de7f0dc36d567c64c6b, sha256: a3ee52ea2e0691a806775308faae5abf8a4b3bc0e8747e161de3143ba4afc4f4)
+0187.025 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0187.030 (0) No remote despatch: user chose no remote backup service
+0187.035 (0) Recording as successfully uploaded: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip
+0187.044 (0) Deleting zip manifest (backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip.list.tmp)
+0187.055 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0187.060 (0) Number of backup sets in history: 0; groups (db): 1
+0187.065 (0) Number of backup sets in history: 0; groups (files): 1
+0187.070 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0187.107 (0) Beginning creation of dump of themes (split every: 400 MB)
+0187.211 (0) Total entities for the zip file: 33 directories, 291 files (0 skipped as non-modified), 10.2 MB
+0187.244 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0187.275 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0191.854 (0) Creating zip file manifest (backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-themes.zip.list-temp.tmp)
+0191.861 (0) Successfully created zip file manifest (size: 19840)
+0191.950 (0) Created themes zip (0) - 9984.3 KB in 4.8 s (2066.3 KB/s) (sha1: c7c5564473d1eb9708b63e4838d9fee86d9330ce, sha256: 47bc579bc585e2d82129f569192795449bb37458691c968b02d8a071d68a1ff5)
+0191.966 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0191.970 (0) No remote despatch: user chose no remote backup service
+0191.975 (0) Recording as successfully uploaded: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-themes.zip
+0191.986 (0) Deleting zip manifest (backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-themes.zip.list.tmp)
+0191.996 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0192.006 (0) Number of backup sets in history: 0; groups (db): 1
+0192.011 (0) Number of backup sets in history: 0; groups (files): 1
+0192.016 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0192.039 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0192.044 (0) Looking for candidates to backup in: C:\xampp\htdocs\sta-maria-church/wp-content/uploads
+0192.049 (0) finding files: 2025: adding to list (1)
+0192.054 (0) finding files: elementor: adding to list (2)
+0192.058 (0) finding files: fonts: adding to list (3)
+0192.064 (0) finding files: slider: adding to list (4)
+0192.069 (0) finding files: slider2: adding to list (5)
+0192.074 (0) finding files: wpcf7_uploads: adding to list (6)
+0192.079 (0) finding files: wpo: adding to list (7)
+0192.086 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0192.236 (0) Total entities for the zip file: 25 directories, 555 files (0 skipped as non-modified), 33 MB
+0192.279 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0192.317 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0192.356 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.6 MB, 555 files batched, 300 (300) added so far); re-opening (prior size: 0 KB)
+0194.232 (0) A useful amount of data was added after this amount of zip processing: 2.2 s (normalised: 2.2 s, rate: 11661.6 KB/s)
+0194.243 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.2461800575256, normalised_time=2.1952430560397, max_time=194.23700094223, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0194.253 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-uploads.zip.tmp: 300 files added (on-disk size: 25728.9 KB)
+0194.301 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-uploads.zip.tmp: 400 files added (on-disk size: 25728.9 KB)
+0194.343 (0) Zip: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-uploads.zip.tmp: 500 files added (on-disk size: 25728.9 KB)
+0196.364 (0) Creating zip file manifest (backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-uploads.zip.list-temp.tmp)
+0196.371 (0) Successfully created zip file manifest (size: 51807)
+0196.608 (0) Created uploads zip (0) - 33420.9 KB in 4.5 s (7409.3 KB/s) (sha1: 156783f4115a4ee360bed63275408475c3e63d03, sha256: c00d2d56e28b0d6a4934377c383ea5ec96b9d22403d9a9310c3dd0bccfc2c17b)
+0196.623 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0196.628 (0) No remote despatch: user chose no remote backup service
+0196.632 (0) Recording as successfully uploaded: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-uploads.zip
+0196.641 (0) Deleting zip manifest (backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-uploads.zip.list.tmp)
+0196.650 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0196.655 (0) Number of backup sets in history: 0; groups (db): 1
+0196.660 (0) Number of backup sets in history: 0; groups (files): 1
+0196.664 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0196.685 (0) No backup of mu-plugins: excluded by user's options
+0196.696 (0) Beginning backup of other directories found in the content directory (index: 0)
+0196.702 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0196.707 (0) Looking for candidates to backup in: C:\xampp\htdocs\sta-maria-church/wp-content
+0196.712 (0) finding files: ewww: adding to list (1)
+0196.717 (0) finding files: index.php: adding to list (2)
+0196.722 (0) finding files: plugins: skipping: this is the plugins directory
+0196.727 (0) finding files: themes: skipping: this is the themes directory
+0196.731 (0) finding files: updraft: skipping: this is the updraft directory
+0196.736 (0) finding files: upgrade: skipping: excluded by options
+0196.741 (0) finding files: upgrade-temp-backup: adding to list (3)
+0196.746 (0) finding files: uploads: skipping: this is the uploads directory
+0196.750 (0) finding files: wflogs: adding to list (4)
+0196.876 (0) Total entities for the zip file: 4 directories, 15 files (0 skipped as non-modified), 8.9 MB
+0200.512 (0) Creating zip file manifest (backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-others.zip.list-temp.tmp)
+0200.519 (0) Successfully created zip file manifest (size: 473)
+0200.570 (0) Created others zip (0) - 4598.2 KB in 3.8 s (1207.4 KB/s) (sha1: 9a78d3770e7f8da237626fef1b50a95caba6a15f, sha256: 5f23506e652cc6b3f7bc38bb36ea6f493232415abf5c128e2d3e8ee2e5cc45c0)
+0200.586 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0200.590 (0) No remote despatch: user chose no remote backup service
+0200.595 (0) Recording as successfully uploaded: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-others.zip
+0200.605 (0) Deleting zip manifest (backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-others.zip.list.tmp)
+0200.616 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0200.622 (0) Number of backup sets in history: 0; groups (db): 1
+0200.627 (0) Number of backup sets in history: 0; groups (files): 1
+0200.631 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0200.659 (0) Saving backup status to database (elements: 8)
+0200.669 (0) Beginning creation of database dump (WordPress DB)
+0200.673 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0200.714 (0) Table wp_options: Total expected rows (via COUNT): 746
+0200.775 (0) Table wp_options: Rows added in this batch (next record: 16346): 742 (uncompressed bytes in this segment=2542899) in 0.08 seconds
+0200.797 (0) Table wp_options: finishing file(s) (2, 424.1 KB)
+0200.814 (0) Table wp_users: Total expected rows (via COUNT): 2
+0200.818 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0200.829 (0) Table wp_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1381) in 0.02 seconds
+0200.843 (0) Table wp_users: finishing file(s) (2, 0.7 KB)
+0200.864 (0) Table wp_usermeta: Total expected rows (via COUNT): 62
+0200.869 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0200.878 (0) Table wp_usermeta: Rows added in this batch (next record: 62): 62 (uncompressed bytes in this segment=10011) in 0.02 seconds
+0200.899 (0) Table wp_usermeta: finishing file(s) (2, 3.3 KB)
+0200.925 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 367
+0200.930 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0200.943 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 630): 367 (uncompressed bytes in this segment=177406) in 0.03 seconds
+0200.963 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 9.1 KB)
+0200.978 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0200.989 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=626) in 0.01 seconds
+0201.004 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0201.026 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 4
+0201.030 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0201.040 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=768) in 0.02 seconds
+0201.056 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0201.071 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 1097
+0201.087 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 1097): 1097 (uncompressed bytes in this segment=131230) in 0.02 seconds
+0201.103 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 9.5 KB)
+0201.126 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0201.136 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.02 seconds
+0201.155 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0201.170 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0201.175 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0201.185 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1882) in 0.02 seconds
+0201.201 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+0201.217 (0) Table wp_links: Total expected rows (via COUNT): 0
+0201.229 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.02 seconds
+0201.243 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0201.367 (0) Table wp_postmeta: Total expected rows (approximate): 3516
+0201.513 (0) Table wp_postmeta: Rows added in this batch (next record: 7137): 4066 (uncompressed bytes in this segment=6203082) in 0.26 seconds
+0201.535 (0) Table wp_postmeta: finishing file(s) (2, 244.2 KB)
+0201.614 (0) Table wp_posts: Total expected rows (via COUNT): 1105
+0201.693 (0) Table wp_posts: Rows added in this batch (next record: 1183): 1105 (uncompressed bytes in this segment=6471691) in 0.15 seconds
+0201.715 (0) Table wp_posts: finishing file(s) (2, 238.4 KB)
+0201.732 (0) Table wp_tec_events: Total expected rows (via COUNT): 1
+0201.736 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0201.746 (0) Table wp_tec_events: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1082) in 0.02 seconds
+0201.762 (0) Table wp_tec_events: finishing file(s) (2, 0.5 KB)
+0201.777 (0) Table wp_tec_occurrences: Total expected rows (via COUNT): 1
+0201.785 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0201.791 (0) Table wp_tec_occurrences: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1330) in 0.02 seconds
+0201.806 (0) Table wp_tec_occurrences: finishing file(s) (2, 0.6 KB)
+0201.822 (0) Table wp_term_relationships: Total expected rows (approximate): 28
+0201.831 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 28 (uncompressed bytes in this segment=1070) in 0.01 seconds
+0201.848 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0201.868 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 13
+0201.872 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0201.881 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 13): 13 (uncompressed bytes in this segment=1339) in 0.02 seconds
+0201.901 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0201.920 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0201.929 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=607) in 0.02 seconds
+0201.948 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0201.963 (0) Table wp_terms: Total expected rows (via COUNT): 13
+0201.967 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0201.976 (0) Table wp_terms: Rows added in this batch (next record: 13): 13 (uncompressed bytes in this segment=1106) in 0.02 seconds
+0201.992 (0) Table wp_terms: finishing file(s) (2, 0.6 KB)
+0202.014 (0) Table wp_brizy_logs: Total expected rows (via COUNT): 0
+0202.024 (0) Table wp_brizy_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=531) in 0.02 seconds
+0202.040 (0) Table wp_brizy_logs: finishing file(s) (2, 0.3 KB)
+0202.055 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0202.062 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=511) in 0.01 seconds
+0202.078 (0) Table wp_e_events: finishing file(s) (2, 0.3 KB)
+0202.094 (0) Table wp_ewwwio_images: Total expected rows (via COUNT): 135
+0202.099 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0202.109 (0) Table wp_ewwwio_images: Rows added in this batch (next record: 143): 135 (uncompressed bytes in this segment=26648) in 0.02 seconds
+0202.127 (0) Table wp_ewwwio_images: finishing file(s) (2, 4.1 KB)
+0202.143 (0) Table wp_ewwwio_queue: Total expected rows (via COUNT): 0
+0202.152 (0) Table wp_ewwwio_queue: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=850) in 0.01 seconds
+0202.167 (0) Table wp_ewwwio_queue: finishing file(s) (2, 0.4 KB)
+0202.187 (0) Table wp_ff_scheduled_actions: Total expected rows (via COUNT): 0
+0202.192 (0) Table wp_ff_scheduled_actions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=937) in 0.01 seconds
+0202.210 (0) Table wp_ff_scheduled_actions: finishing file(s) (2, 0.4 KB)
+0202.232 (0) Table wp_fluentform_entry_details: Total expected rows (via COUNT): 0
+0202.237 (0) Table wp_fluentform_entry_details: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=723) in 0.01 seconds
+0202.256 (0) Table wp_fluentform_entry_details: finishing file(s) (2, 0.4 KB)
+0202.271 (0) Table wp_fluentform_form_analytics: Total expected rows (via COUNT): 0
+0202.276 (0) Table wp_fluentform_form_analytics: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=866) in 0.01 seconds
+0202.291 (0) Table wp_fluentform_form_analytics: finishing file(s) (2, 0.4 KB)
+0202.312 (0) Table wp_fluentform_form_meta: Total expected rows (via COUNT): 14
+0202.316 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0202.326 (0) Table wp_fluentform_form_meta: Rows added in this batch (next record: 14): 14 (uncompressed bytes in this segment=16440) in 0.02 seconds
+0202.346 (0) Table wp_fluentform_form_meta: finishing file(s) (2, 3.1 KB)
+0202.368 (0) Table wp_fluentform_forms: Total expected rows (via COUNT): 3
+0202.374 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0202.379 (0) Table wp_fluentform_forms: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=11416) in 0.02 seconds
+0202.400 (0) Table wp_fluentform_forms: finishing file(s) (2, 1.8 KB)
+0202.421 (0) Table wp_fluentform_logs: Total expected rows (via COUNT): 0
+0202.429 (0) Table wp_fluentform_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=772) in 0.02 seconds
+0202.461 (0) Table wp_fluentform_logs: finishing file(s) (2, 0.4 KB)
+0202.493 (0) Table wp_fluentform_submission_meta: Total expected rows (via COUNT): 0
+0202.501 (0) Table wp_fluentform_submission_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=878) in 0.02 seconds
+0202.521 (0) Table wp_fluentform_submission_meta: finishing file(s) (2, 0.4 KB)
+0202.539 (0) Table wp_fluentform_submissions: Total expected rows (via COUNT): 0
+0202.547 (0) Table wp_fluentform_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1351) in 0.02 seconds
+0202.567 (0) Table wp_fluentform_submissions: finishing file(s) (2, 0.5 KB)
+0202.583 (0) Table wp_litespeed_url: Total expected rows (via COUNT): 0
+0202.587 (0) Table wp_litespeed_url: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=577) in 0.01 seconds
+0202.604 (0) Table wp_litespeed_url: finishing file(s) (2, 0.4 KB)
+0202.619 (0) Table wp_litespeed_url_file: Total expected rows (via COUNT): 0
+0202.623 (0) Table wp_litespeed_url_file: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1109) in 0.01 seconds
+0202.639 (0) Table wp_litespeed_url_file: finishing file(s) (2, 0.5 KB)
+0202.655 (0) Table wp_nextend2_image_storage: Total expected rows (via COUNT): 12
+0202.660 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0202.668 (0) Table wp_nextend2_image_storage: Rows added in this batch (next record: 12): 12 (uncompressed bytes in this segment=4493) in 0.02 seconds
+0202.684 (0) Table wp_nextend2_image_storage: finishing file(s) (2, 1 KB)
+0202.699 (0) Table wp_nextend2_section_storage: Total expected rows (via COUNT): 2
+0202.706 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0202.711 (0) Table wp_nextend2_section_storage: Rows added in this batch (next record: 10001): 2 (uncompressed bytes in this segment=1191) in 0.02 seconds
+0202.726 (0) Table wp_nextend2_section_storage: finishing file(s) (2, 0.6 KB)
+0202.742 (0) Table wp_nextend2_smartslider3_generators: Total expected rows (via COUNT): 0
+0202.750 (0) Table wp_nextend2_smartslider3_generators: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.01 seconds
+0202.764 (0) Table wp_nextend2_smartslider3_generators: finishing file(s) (2, 0.4 KB)
+0202.778 (0) Table wp_nextend2_smartslider3_sliders: Total expected rows (via COUNT): 2
+0202.783 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0202.793 (0) Table wp_nextend2_smartslider3_sliders: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=30450) in 0.02 seconds
+0202.808 (0) Table wp_nextend2_smartslider3_sliders: finishing file(s) (2, 4.6 KB)
+0202.823 (0) Table wp_nextend2_smartslider3_sliders_xref: Total expected rows (approximate): 1
+0202.832 (0) Table wp_nextend2_smartslider3_sliders_xref: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=730) in 0.01 seconds
+0202.848 (0) Table wp_nextend2_smartslider3_sliders_xref: finishing file(s) (2, 0.4 KB)
+0202.869 (0) Table wp_nextend2_smartslider3_slides: Total expected rows (via COUNT): 7
+0202.873 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0202.882 (0) Table wp_nextend2_smartslider3_slides: Rows added in this batch (next record: 14): 7 (uncompressed bytes in this segment=32149) in 0.02 seconds
+0202.901 (0) Table wp_nextend2_smartslider3_slides: finishing file(s) (2, 3 KB)
+0202.924 (0) Table wp_snippets: Total expected rows (via COUNT): 4
+0202.929 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0202.934 (0) Table wp_snippets: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=2244) in 0.02 seconds
+0202.953 (0) Table wp_snippets: finishing file(s) (2, 1 KB)
+0202.972 (0) Table wp_tm_taskmeta: Total expected rows (via COUNT): 2
+0202.978 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0202.983 (0) Table wp_tm_taskmeta: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=987) in 0.02 seconds
+0203.002 (0) Table wp_tm_taskmeta: finishing file(s) (2, 0.5 KB)
+0203.024 (0) Table wp_tm_tasks: Total expected rows (via COUNT): 2
+0203.028 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0203.033 (0) Table wp_tm_tasks: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1103) in 0.02 seconds
+0203.049 (0) Table wp_tm_tasks: finishing file(s) (2, 0.6 KB)
+0203.064 (0) Table wp_wfauditevents: Total expected rows (via COUNT): 0
+0203.073 (0) Table wp_wfauditevents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=733) in 0.01 seconds
+0203.087 (0) Table wp_wfauditevents: finishing file(s) (2, 0.4 KB)
+0203.100 (0) Table wp_wfblockediplog: Total expected rows (approximate): 0
+0203.105 (0) Table wp_wfblockediplog: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=651) in 0.01 seconds
+0203.121 (0) Table wp_wfblockediplog: finishing file(s) (2, 0.4 KB)
+0203.136 (0) Table wp_wfblocks7: Total expected rows (via COUNT): 0
+0203.140 (0) Table wp_wfblocks7: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=840) in 0.01 seconds
+0203.155 (0) Table wp_wfblocks7: finishing file(s) (2, 0.4 KB)
+0203.169 (0) Table wp_wfconfig: Total expected rows (approximate): 228
+0203.177 (0) Table wp_wfconfig: Rows added in this batch (next record: 1000): 228 (uncompressed bytes in this segment=14434) in 0.01 seconds
+0203.192 (0) Table wp_wfconfig: finishing file(s) (2, 3.8 KB)
+0203.205 (0) Table wp_wfcrawlers: Total expected rows (approximate): 0
+0203.210 (0) Table wp_wfcrawlers: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=576) in 0.01 seconds
+0203.224 (0) Table wp_wfcrawlers: finishing file(s) (2, 0.4 KB)
+0203.238 (0) Table wp_wffilechanges: Total expected rows (approximate): 0
+0203.243 (0) Table wp_wffilechanges: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=476) in 0.01 seconds
+0203.258 (0) Table wp_wffilechanges: finishing file(s) (2, 0.3 KB)
+0203.273 (0) Table wp_wffilemods: Total expected rows (approximate): 0
+0203.277 (0) Table wp_wffilemods: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=884) in 0.01 seconds
+0203.292 (0) Table wp_wffilemods: finishing file(s) (2, 0.4 KB)
+0203.308 (0) Table wp_wfhits: Total expected rows (via COUNT): 0
+0203.315 (0) Table wp_wfhits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=986) in 0.01 seconds
+0203.328 (0) Table wp_wfhits: finishing file(s) (2, 0.5 KB)
+0203.343 (0) Table wp_wfhoover: Total expected rows (via COUNT): 0
+0203.348 (0) Table wp_wfhoover: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=539) in 0.01 seconds
+0203.363 (0) Table wp_wfhoover: finishing file(s) (2, 0.3 KB)
+0203.379 (0) Table wp_wfissues: Total expected rows (via COUNT): 0
+0203.384 (0) Table wp_wfissues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=854) in 0.01 seconds
+0203.399 (0) Table wp_wfissues: finishing file(s) (2, 0.4 KB)
+0203.417 (0) Table wp_wfknownfilelist: Total expected rows (via COUNT): 0
+0203.421 (0) Table wp_wfknownfilelist: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=489) in 0.01 seconds
+0203.434 (0) Table wp_wfknownfilelist: finishing file(s) (2, 0.3 KB)
+0203.448 (0) Table wp_wflivetraffichuman: Total expected rows (approximate): 0
+0203.453 (0) Table wp_wflivetraffichuman: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=672) in 0.01 seconds
+0203.468 (0) Table wp_wflivetraffichuman: finishing file(s) (2, 0.4 KB)
+0203.481 (0) Table wp_wflocs: Total expected rows (approximate): 0
+0203.499 (0) Table wp_wflocs: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=702) in 0.02 seconds
+0203.556 (0) Table wp_wflocs: finishing file(s) (2, 0.4 KB)
+0203.571 (0) Table wp_wflogins: Total expected rows (via COUNT): 0
+0203.577 (0) Table wp_wflogins: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=718) in 0.01 seconds
+0203.593 (0) Table wp_wflogins: finishing file(s) (2, 0.4 KB)
+0203.610 (0) Table wp_wfls_2fa_secrets: Total expected rows (via COUNT): 0
+0203.615 (0) Table wp_wfls_2fa_secrets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=705) in 0.01 seconds
+0203.631 (0) Table wp_wfls_2fa_secrets: finishing file(s) (2, 0.4 KB)
+0203.646 (0) Table wp_wfls_role_counts: Total expected rows (approximate): 0
+0203.652 (0) Table wp_wfls_role_counts: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=576) in 0.01 seconds
+0203.668 (0) Table wp_wfls_role_counts: finishing file(s) (2, 0.4 KB)
+0203.682 (0) Table wp_wfls_settings: Total expected rows (approximate): 27
+0203.688 (0) Table wp_wfls_settings: Rows added in this batch (next record: 1000): 27 (uncompressed bytes in this segment=1964) in 0.01 seconds
+0203.703 (0) Table wp_wfls_settings: finishing file(s) (2, 0.9 KB)
+0203.718 (0) Table wp_wfnotifications: Total expected rows (approximate): 0
+0203.722 (0) Table wp_wfnotifications: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=636) in 0.01 seconds
+0203.737 (0) Table wp_wfnotifications: finishing file(s) (2, 0.4 KB)
+0203.752 (0) Table wp_wfpendingissues: Total expected rows (via COUNT): 0
+0203.757 (0) Table wp_wfpendingissues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=896) in 0.01 seconds
+0203.771 (0) Table wp_wfpendingissues: finishing file(s) (2, 0.4 KB)
+0203.785 (0) Table wp_wfreversecache: Total expected rows (approximate): 0
+0203.791 (0) Table wp_wfreversecache: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=521) in 0.01 seconds
+0203.805 (0) Table wp_wfreversecache: finishing file(s) (2, 0.3 KB)
+0203.819 (0) Table wp_wfsecurityevents: Total expected rows (via COUNT): 0
+0203.824 (0) Table wp_wfsecurityevents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=706) in 0.01 seconds
+0203.840 (0) Table wp_wfsecurityevents: finishing file(s) (2, 0.4 KB)
+0203.855 (0) Table wp_wfsnipcache: Total expected rows (via COUNT): 0
+0203.860 (0) Table wp_wfsnipcache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=723) in 0.01 seconds
+0203.875 (0) Table wp_wfsnipcache: finishing file(s) (2, 0.4 KB)
+0203.890 (0) Table wp_wfstatus: Total expected rows (via COUNT): 0
+0203.895 (0) Table wp_wfstatus: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=576) in 0.01 seconds
+0203.910 (0) Table wp_wfstatus: finishing file(s) (2, 0.4 KB)
+0203.925 (0) Table wp_wftrafficrates: Total expected rows (approximate): 0
+0203.931 (0) Table wp_wftrafficrates: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=590) in 0.01 seconds
+0203.947 (0) Table wp_wftrafficrates: finishing file(s) (2, 0.3 KB)
+0203.962 (0) Table wp_wfwaffailures: Total expected rows (via COUNT): 0
+0203.967 (0) Table wp_wfwaffailures: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=553) in 0.01 seconds
+0203.982 (0) Table wp_wfwaffailures: finishing file(s) (2, 0.3 KB)
+0204.011 (0) Table wp_wpgmza: Total expected rows (via COUNT): 1
+0204.015 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0204.023 (0) Table wp_wpgmza: Rows added in this batch (next record: 2): 1 (uncompressed bytes in this segment=1273) in 0.03 seconds
+0204.042 (0) Table wp_wpgmza: finishing file(s) (2, 0.6 KB)
+0204.061 (0) Table wp_wpgmza_admin_notices: Total expected rows (via COUNT): 0
+0204.069 (0) Table wp_wpgmza_admin_notices: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=639) in 0.02 seconds
+0204.087 (0) Table wp_wpgmza_admin_notices: finishing file(s) (2, 0.4 KB)
+0204.103 (0) Table wp_wpgmza_circles: Total expected rows (via COUNT): 0
+0204.110 (0) Table wp_wpgmza_circles: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=985) in 0.01 seconds
+0204.124 (0) Table wp_wpgmza_circles: finishing file(s) (2, 0.4 KB)
+0204.140 (0) Table wp_wpgmza_image_overlays: Total expected rows (via COUNT): 0
+0204.146 (0) Table wp_wpgmza_image_overlays: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.01 seconds
+0204.160 (0) Table wp_wpgmza_image_overlays: finishing file(s) (2, 0.4 KB)
+0204.180 (0) Table wp_wpgmza_maps: Total expected rows (via COUNT): 1
+0204.184 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0204.192 (0) Table wp_wpgmza_maps: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=5151) in 0.02 seconds
+0204.211 (0) Table wp_wpgmza_maps: finishing file(s) (2, 1.8 KB)
+0204.225 (0) Table wp_wpgmza_point_labels: Total expected rows (via COUNT): 0
+0204.235 (0) Table wp_wpgmza_point_labels: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=694) in 0.01 seconds
+0204.250 (0) Table wp_wpgmza_point_labels: finishing file(s) (2, 0.4 KB)
+0204.268 (0) Table wp_wpgmza_polygon: Total expected rows (via COUNT): 0
+0204.273 (0) Table wp_wpgmza_polygon: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=977) in 0.01 seconds
+0204.292 (0) Table wp_wpgmza_polygon: finishing file(s) (2, 0.4 KB)
+0204.314 (0) Table wp_wpgmza_polylines: Total expected rows (via COUNT): 0
+0204.318 (0) Table wp_wpgmza_polylines: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=675) in 0.01 seconds
+0204.336 (0) Table wp_wpgmza_polylines: finishing file(s) (2, 0.4 KB)
+0204.352 (0) Table wp_wpgmza_rectangles: Total expected rows (via COUNT): 0
+0204.356 (0) Table wp_wpgmza_rectangles: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1005) in 0.01 seconds
+0204.371 (0) Table wp_wpgmza_rectangles: finishing file(s) (2, 0.5 KB)
+0204.385 (0) Table wp_wpo_404_detector: Total expected rows (via COUNT): 0
+0204.390 (0) Table wp_wpo_404_detector: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=807) in 0.01 seconds
+0204.404 (0) Table wp_wpo_404_detector: finishing file(s) (2, 0.4 KB)
+0204.408 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\sta-maria-church/wp-content/updraft/backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db.gz (line 1923, C:\xampp\htdocs\sta-maria-church\wp-content\plugins\updraftplus\backup.php)
+0204.415 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_options.table.tmpr16347.gz (1/76/fopen): adding to final database dump
+0204.426 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_options.table.gz (2/76/fopen): adding to final database dump
+0204.430 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_users.table.tmpr3.gz (3/76/fopen): adding to final database dump
+0204.434 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_users.table.gz (4/76/fopen): adding to final database dump
+0204.439 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_usermeta.table.tmpr63.gz (5/76/fopen): adding to final database dump
+0204.443 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_usermeta.table.gz (6/76/fopen): adding to final database dump
+0204.447 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_actionscheduler_actions.table.tmpr631.gz (7/76/fopen): adding to final database dump
+0204.452 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_actionscheduler_actions.table.gz (8/76/fopen): adding to final database dump
+0204.456 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/76/fopen): adding to final database dump
+0204.461 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_actionscheduler_claims.table.gz (10/76/fopen): adding to final database dump
+0204.465 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_actionscheduler_groups.table.tmpr5.gz (11/76/fopen): adding to final database dump
+0204.470 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_actionscheduler_groups.table.gz (12/76/fopen): adding to final database dump
+0204.474 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_actionscheduler_logs.table.tmpr1098.gz (13/76/fopen): adding to final database dump
+0204.478 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_actionscheduler_logs.table.gz (14/76/fopen): adding to final database dump
+0204.483 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_commentmeta.table.tmpr0.gz (15/76/fopen): adding to final database dump
+0204.486 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_commentmeta.table.gz (16/76/fopen): adding to final database dump
+0204.491 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_comments.table.tmpr2.gz (17/76/fopen): adding to final database dump
+0204.495 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_comments.table.gz (18/76/fopen): adding to final database dump
+0204.499 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_links.table.tmpr0.gz (19/76/fopen): adding to final database dump
+0204.503 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_links.table.gz (20/76/fopen): adding to final database dump
+0204.508 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_postmeta.table.tmpr7138.gz (21/76/fopen): adding to final database dump
+0204.516 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_postmeta.table.gz (22/76/fopen): adding to final database dump
+0204.521 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_posts.table.tmpr1184.gz (23/76/fopen): adding to final database dump
+0204.529 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_posts.table.gz (24/76/fopen): adding to final database dump
+0204.551 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_tec_events.table.tmpr2.gz (25/76/fopen): adding to final database dump
+0204.563 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_tec_events.table.gz (26/76/fopen): adding to final database dump
+0204.573 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_tec_occurrences.table.tmpr2.gz (27/76/fopen): adding to final database dump
+0204.582 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_tec_occurrences.table.gz (28/76/fopen): adding to final database dump
+0204.587 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_term_relationships.table.tmpr100001.gz (29/76/fopen): adding to final database dump
+0204.592 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_term_relationships.table.gz (30/76/fopen): adding to final database dump
+0204.596 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_term_taxonomy.table.tmpr14.gz (31/76/fopen): adding to final database dump
+0204.601 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_term_taxonomy.table.gz (32/76/fopen): adding to final database dump
+0204.605 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_termmeta.table.tmpr0.gz (33/76/fopen): adding to final database dump
+0204.612 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_termmeta.table.gz (34/76/fopen): adding to final database dump
+0204.616 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_terms.table.tmpr14.gz (35/76/fopen): adding to final database dump
+0204.621 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_terms.table.gz (36/76/fopen): adding to final database dump
+0204.626 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_brizy_logs.table.tmpr0.gz (37/76/fopen): adding to final database dump
+0204.631 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_brizy_logs.table.gz (38/76/fopen): adding to final database dump
+0204.636 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_e_events.table.tmpr0.gz (39/76/fopen): adding to final database dump
+0204.641 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_e_events.table.gz (40/76/fopen): adding to final database dump
+0204.646 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_ewwwio_images.table.tmpr144.gz (41/76/fopen): adding to final database dump
+0204.651 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_ewwwio_images.table.gz (42/76/fopen): adding to final database dump
+0204.656 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_ewwwio_queue.table.tmpr0.gz (43/76/fopen): adding to final database dump
+0204.661 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_ewwwio_queue.table.gz (44/76/fopen): adding to final database dump
+0204.666 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_ff_scheduled_actions.table.tmpr0.gz (45/76/fopen): adding to final database dump
+0204.671 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_ff_scheduled_actions.table.gz (46/76/fopen): adding to final database dump
+0204.675 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_fluentform_entry_details.table.tmpr0.gz (47/76/fopen): adding to final database dump
+0204.680 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_fluentform_entry_details.table.gz (48/76/fopen): adding to final database dump
+0204.684 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_fluentform_form_analytics.table.tmpr0.gz (49/76/fopen): adding to final database dump
+0204.689 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_fluentform_form_analytics.table.gz (50/76/fopen): adding to final database dump
+0204.693 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_fluentform_form_meta.table.tmpr15.gz (51/76/fopen): adding to final database dump
+0204.697 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_fluentform_form_meta.table.gz (52/76/fopen): adding to final database dump
+0204.702 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_fluentform_forms.table.tmpr4.gz (53/76/fopen): adding to final database dump
+0204.707 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_fluentform_forms.table.gz (54/76/fopen): adding to final database dump
+0204.711 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_fluentform_logs.table.tmpr0.gz (55/76/fopen): adding to final database dump
+0204.716 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_fluentform_logs.table.gz (56/76/fopen): adding to final database dump
+0204.721 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_fluentform_submission_meta.table.tmpr0.gz (57/76/fopen): adding to final database dump
+0204.725 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_fluentform_submission_meta.table.gz (58/76/fopen): adding to final database dump
+0204.729 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_fluentform_submissions.table.tmpr0.gz (59/76/fopen): adding to final database dump
+0204.734 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_fluentform_submissions.table.gz (60/76/fopen): adding to final database dump
+0204.738 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_litespeed_url.table.tmpr0.gz (61/76/fopen): adding to final database dump
+0204.742 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_litespeed_url.table.gz (62/76/fopen): adding to final database dump
+0204.746 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_litespeed_url_file.table.tmpr0.gz (63/76/fopen): adding to final database dump
+0204.750 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_litespeed_url_file.table.gz (64/76/fopen): adding to final database dump
+0204.755 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_nextend2_image_storage.table.tmpr13.gz (65/76/fopen): adding to final database dump
+0204.759 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_nextend2_image_storage.table.gz (66/76/fopen): adding to final database dump
+0204.764 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_nextend2_section_storage.table.tmpr10002.gz (67/76/fopen): adding to final database dump
+0204.769 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_nextend2_section_storage.table.gz (68/76/fopen): adding to final database dump
+0204.773 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_nextend2_smartslider3_generators.table.tmpr0.gz (69/76/fopen): adding to final database dump
+0204.777 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_nextend2_smartslider3_generators.table.gz (70/76/fopen): adding to final database dump
+0204.782 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_nextend2_smartslider3_sliders.table.tmpr3.gz (71/76/fopen): adding to final database dump
+0204.786 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_nextend2_smartslider3_sliders.table.gz (72/76/fopen): adding to final database dump
+0204.790 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_nextend2_smartslider3_sliders_xref.table.tmpr1001.gz (73/76/fopen): adding to final database dump
+0204.794 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_nextend2_smartslider3_sliders_xref.table.gz (74/76/fopen): adding to final database dump
+0204.798 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_nextend2_smartslider3_slides.table.tmpr15.gz (75/76/fopen): adding to final database dump
+0204.802 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_nextend2_smartslider3_slides.table.gz (76/76/fopen): adding to final database dump
+0204.807 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_snippets.table.tmpr5.gz (77/76/fopen): adding to final database dump
+0204.812 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_snippets.table.gz (78/76/fopen): adding to final database dump
+0204.816 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_tm_taskmeta.table.tmpr3.gz (79/76/fopen): adding to final database dump
+0204.821 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_tm_taskmeta.table.gz (80/76/fopen): adding to final database dump
+0204.825 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_tm_tasks.table.tmpr3.gz (81/76/fopen): adding to final database dump
+0204.829 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_tm_tasks.table.gz (82/76/fopen): adding to final database dump
+0204.833 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfauditevents.table.tmpr0.gz (83/76/fopen): adding to final database dump
+0204.838 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfauditevents.table.gz (84/76/fopen): adding to final database dump
+0204.841 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfblockediplog.table.tmpr1.gz (85/76/fopen): adding to final database dump
+0204.846 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfblockediplog.table.gz (86/76/fopen): adding to final database dump
+0204.850 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfblocks7.table.tmpr0.gz (87/76/fopen): adding to final database dump
+0204.854 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfblocks7.table.gz (88/76/fopen): adding to final database dump
+0204.859 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfconfig.table.tmpr1001.gz (89/76/fopen): adding to final database dump
+0204.864 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfconfig.table.gz (90/76/fopen): adding to final database dump
+0204.868 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfcrawlers.table.tmpr1.gz (91/76/fopen): adding to final database dump
+0204.872 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfcrawlers.table.gz (92/76/fopen): adding to final database dump
+0204.876 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wffilechanges.table.tmpr1.gz (93/76/fopen): adding to final database dump
+0204.880 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wffilechanges.table.gz (94/76/fopen): adding to final database dump
+0204.885 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wffilemods.table.tmpr1.gz (95/76/fopen): adding to final database dump
+0204.889 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wffilemods.table.gz (96/76/fopen): adding to final database dump
+0204.893 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfhits.table.tmpr0.gz (97/76/fopen): adding to final database dump
+0204.898 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfhits.table.gz (98/76/fopen): adding to final database dump
+0204.903 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfhoover.table.tmpr0.gz (99/76/fopen): adding to final database dump
+0204.911 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfhoover.table.gz (100/76/fopen): adding to final database dump
+0204.916 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfissues.table.tmpr0.gz (101/76/fopen): adding to final database dump
+0204.920 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfissues.table.gz (102/76/fopen): adding to final database dump
+0204.925 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfknownfilelist.table.tmpr0.gz (103/76/fopen): adding to final database dump
+0204.929 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfknownfilelist.table.gz (104/76/fopen): adding to final database dump
+0204.933 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wflivetraffichuman.table.tmpr1.gz (105/76/fopen): adding to final database dump
+0204.937 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wflivetraffichuman.table.gz (106/76/fopen): adding to final database dump
+0204.941 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wflocs.table.tmpr1.gz (107/76/fopen): adding to final database dump
+0204.946 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wflocs.table.gz (108/76/fopen): adding to final database dump
+0204.950 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wflogins.table.tmpr0.gz (109/76/fopen): adding to final database dump
+0204.955 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wflogins.table.gz (110/76/fopen): adding to final database dump
+0204.959 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfls_2fa_secrets.table.tmpr0.gz (111/76/fopen): adding to final database dump
+0204.964 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfls_2fa_secrets.table.gz (112/76/fopen): adding to final database dump
+0204.970 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfls_role_counts.table.tmpr1.gz (113/76/fopen): adding to final database dump
+0204.975 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfls_role_counts.table.gz (114/76/fopen): adding to final database dump
+0204.980 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfls_settings.table.tmpr1001.gz (115/76/fopen): adding to final database dump
+0204.985 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfls_settings.table.gz (116/76/fopen): adding to final database dump
+0204.989 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfnotifications.table.tmpr1.gz (117/76/fopen): adding to final database dump
+0204.994 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfnotifications.table.gz (118/76/fopen): adding to final database dump
+0204.998 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfpendingissues.table.tmpr0.gz (119/76/fopen): adding to final database dump
+0205.003 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfpendingissues.table.gz (120/76/fopen): adding to final database dump
+0205.007 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfreversecache.table.tmpr1.gz (121/76/fopen): adding to final database dump
+0205.011 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfreversecache.table.gz (122/76/fopen): adding to final database dump
+0205.015 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfsecurityevents.table.tmpr0.gz (123/76/fopen): adding to final database dump
+0205.021 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfsecurityevents.table.gz (124/76/fopen): adding to final database dump
+0205.025 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfsnipcache.table.tmpr0.gz (125/76/fopen): adding to final database dump
+0205.029 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfsnipcache.table.gz (126/76/fopen): adding to final database dump
+0205.033 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfstatus.table.tmpr0.gz (127/76/fopen): adding to final database dump
+0205.038 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfstatus.table.gz (128/76/fopen): adding to final database dump
+0205.042 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wftrafficrates.table.tmpr1.gz (129/76/fopen): adding to final database dump
+0205.046 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wftrafficrates.table.gz (130/76/fopen): adding to final database dump
+0205.050 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfwaffailures.table.tmpr0.gz (131/76/fopen): adding to final database dump
+0205.054 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wfwaffailures.table.gz (132/76/fopen): adding to final database dump
+0205.059 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza.table.tmpr3.gz (133/76/fopen): adding to final database dump
+0205.064 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza.table.gz (134/76/fopen): adding to final database dump
+0205.068 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_admin_notices.table.tmpr0.gz (135/76/fopen): adding to final database dump
+0205.073 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_admin_notices.table.gz (136/76/fopen): adding to final database dump
+0205.078 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_circles.table.tmpr0.gz (137/76/fopen): adding to final database dump
+0205.083 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_circles.table.gz (138/76/fopen): adding to final database dump
+0205.087 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_image_overlays.table.tmpr0.gz (139/76/fopen): adding to final database dump
+0205.092 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_image_overlays.table.gz (140/76/fopen): adding to final database dump
+0205.096 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_maps.table.tmpr2.gz (141/76/fopen): adding to final database dump
+0205.100 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_maps.table.gz (142/76/fopen): adding to final database dump
+0205.104 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_point_labels.table.tmpr0.gz (143/76/fopen): adding to final database dump
+0205.109 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_point_labels.table.gz (144/76/fopen): adding to final database dump
+0205.113 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_polygon.table.tmpr0.gz (145/76/fopen): adding to final database dump
+0205.117 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_polygon.table.gz (146/76/fopen): adding to final database dump
+0205.123 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_polylines.table.tmpr0.gz (147/76/fopen): adding to final database dump
+0205.127 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_polylines.table.gz (148/76/fopen): adding to final database dump
+0205.132 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_rectangles.table.tmpr0.gz (149/76/fopen): adding to final database dump
+0205.136 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpgmza_rectangles.table.gz (150/76/fopen): adding to final database dump
+0205.140 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpo_404_detector.table.tmpr0.gz (151/76/fopen): adding to final database dump
+0205.145 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db-table-wp_wpo_404_detector.table.gz (152/76/fopen): adding to final database dump
+0205.173 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db.gz: finished writing out complete database file (978.5 KB)
+0205.217 (0) Total database tables backed up: 76 (backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db.gz, size: 1002115, sha1: 5eb5f92982d4670c5654f5e109e8c959b9b6a086, sha256: 18241e9ed8aedb0a4cb653329880d794b81e4ef697306af956b3cefe4d924913)
+0205.234 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-plugins.zip: plugins: This file has already been successfully processed
+0205.239 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-themes.zip: themes: This file has already been successfully processed
+0205.243 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-uploads.zip: uploads: This file has already been successfully processed
+0205.247 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-others.zip: others: This file has already been successfully processed
+0205.252 (0) backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db.gz: db: This file has not yet been successfully uploaded: will queue
+0205.256 (0) Saving backup history. Total backup size: 137.9 MB
+0205.265 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0205.277 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0205.281 (0) No remote despatch: user chose no remote backup service
+0205.285 (0) Recording as successfully uploaded: backup_2025-06-25-1015_Santuario_Arquidiocesano_De_Nues_eb07bb214f12-db.gz
+0205.296 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0205.300 (0) Number of backup sets in history: 1; groups (db): 1
+0205.305 (0) Examining (for databases) backup set with group_id=0, nonce=eb07bb214f12, datestamp=1750817754 (Jun 25 2025 02:15:54)
+0205.309 (0) This backup set is the backup set just made, so will not be deleted.
+0205.309 (0) Number of backup sets in history: 1; groups (files): 1
+0205.313 (0) Examining (for files) backup set with nonce=eb07bb214f12, datestamp=1750817754 (Jun 25 2025 02:15:54)
+0205.313 (0) This backup set is the backup set just made, so will not be deleted.
+0205.318 (0) This backup set is the backup set just made, so will not be deleted.
+0205.318 (0) This backup set is the backup set just made, so will not be deleted.
+0205.318 (0) This backup set is the backup set just made, so will not be deleted.
+0205.318 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0205.322 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0205.330 (0) Resume backup (eb07bb214f12, 0): finish run
+0205.343 (0) Decremented the semaphore (fd) by 1
+0205.351 (0) Semaphore (fd) unlocked
+0205.355 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0205.367 (0) No email will/can be sent - the user has not configured an email address.
+0205.371 (0) The backup succeeded and is now complete
